@@ -19,17 +19,16 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.shaam19.livescoreuser"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3c7478f7-6f1c-4990-8956-a680fcb51f72"
+        "projectId": "e8fb28db-ae48-4e2c-8914-aa0520661d14"
       }
     }
   }
